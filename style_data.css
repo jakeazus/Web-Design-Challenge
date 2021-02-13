@@ -1,0 +1,27 @@
+h1{
+    
+    color:#0BADA6;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+body {
+    background: lightgrey;
+  }
+
+.navbar.navbar {
+    color: white;   
+    
+    padding: inherit;  
+    font-weight: bold;  
+    background-color: #0BADA6;
+    
+} 
+.navbar-brand{
+    color: white
+}
+
+.box{
+    background-color: white;
+}
+

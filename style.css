@@ -1,0 +1,38 @@
+body {
+    background: lightgrey;
+  }
+
+
+h1{
+
+    color:#0BADA6
+}
+
+
+h2{
+    color: #0BADA6
+}
+
+.title{
+    color: #0BADA6;
+}
+
+button{
+    margin-right: 30px; 
+}
+
+ /* .navbar-nav{
+    text-align: right;
+} */
+
+.navbar.navbar {
+    color: white;   
+    
+    padding: inherit;  
+    font-weight: bold;  
+    background-color: #0BADA6;
+    
+} 
+.navbar-brand{
+    color: white
+}
